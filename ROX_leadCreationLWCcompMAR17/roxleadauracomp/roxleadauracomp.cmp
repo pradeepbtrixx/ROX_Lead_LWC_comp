@@ -1,0 +1,15 @@
+<!--
+* @File Name          : roxleadauracomp.cmp
+* @Description        : 
+* @Author             : Pradeep Kumar
+* @Last Modified By   : pradeepkumarbabu@rudhrainfosolutions.com
+* @Last Modified On   : 14/03/2022
+* @Modification Log   : 
+*==============================================================================
+* Ver         Date                     Author      		      Modification
+*==============================================================================
+* 1.0    14/03/2022                 Pradeep Kumar          Initial Version
+-->
+<aura:component implements="flexipage:availableForRecordHome,force:hasRecordId,lightning:actionOverride" access="global" >
+	<c:roxleadcreationcomp></c:roxleadcreationcomp>
+</aura:component>
